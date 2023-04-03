@@ -1,0 +1,1 @@
+alter table pacientes add ativo BIT(1) DEFAULT 1;

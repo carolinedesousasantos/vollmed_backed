@@ -1,0 +1,1 @@
+Alter table agendamentos add dataEHorario DATETIME;

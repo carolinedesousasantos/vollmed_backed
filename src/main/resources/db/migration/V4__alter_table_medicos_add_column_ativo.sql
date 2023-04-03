@@ -1,0 +1,1 @@
+alter table medicos add ativo BIT(1) DEFAULT 1;
